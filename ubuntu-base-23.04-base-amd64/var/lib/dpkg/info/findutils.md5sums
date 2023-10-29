@@ -1,0 +1,15 @@
+ea324af7f1156606716f616473f52e0d  usr/bin/find
+f24e21b8794cca3bfbd04eebd1caacb4  usr/bin/xargs
+f78e2d4189be58135a915698efe1cd7a  usr/share/doc-base/findutils.findutils
+75ca1d03fcbb9d988ff479d6c9ca6349  usr/share/doc/findutils/NEWS.Debian.gz
+bd89a9df9396614704073d690617af10  usr/share/doc/findutils/NEWS.gz
+1dee84120f907a8a0c98300a4bd8f70e  usr/share/doc/findutils/README.gz
+95c7c4265ee5c7b9e67d0183d25c13d9  usr/share/doc/findutils/TODO
+b0b943b6a2dcb07d551ab1827e05a8a7  usr/share/doc/findutils/changelog.Debian.gz
+8bbda87658bc80490857f1ce94b29570  usr/share/doc/findutils/copyright
+495db52f99bd799da1a2c4c8177d116d  usr/share/info/find-maint.info.gz
+a4a5639962311edf0dffca95fb7f5534  usr/share/info/find.info-1.gz
+a9d5adafc1cd14c179e8306345cb5c19  usr/share/info/find.info-2.gz
+3977fd270ea225601ed2fe1e363bd7d4  usr/share/info/find.info.gz
+3b11a525cf7a5e5267875da2f1468ded  usr/share/man/man1/find.1.gz
+d2c12ccddd7641e2fd435472784da852  usr/share/man/man1/xargs.1.gz
