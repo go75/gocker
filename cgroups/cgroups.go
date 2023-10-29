@@ -8,11 +8,6 @@ import (
 	"strconv"
 )
 
-const (
-	cgroupsPath = "/sys/fs/cgroup"
-	dockerName  = "gocker"
-)
-
 func ConfigDefaultCgroups(pid int, containerName string) error {
 
 	var (
