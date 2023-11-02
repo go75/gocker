@@ -59,3 +59,25 @@ clear
 ls
 clea
 exit
+ls
+clear
+ls
+cd user
+ls
+cd ~
+ls
+clear
+s
+ls
+clear
+ls
+cd ..
+cd ~
+pwd
+rm 1.txt
+ls
+clear
+ls
+cd ..
+celar
+exit
